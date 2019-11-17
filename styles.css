@@ -1,0 +1,38 @@
+body {
+    font-family: "Vibes", cursive;
+    font-size: 1.5rem;
+    letter-spacing: 3px;
+    margin: 15px 35px 45px 35px;
+    background-image: linear-gradient(black, grey);
+    color: aqua;
+}
+h1 {
+    text-align: center;
+
+}
+#myBtn {
+    width: 20%;
+    height: 70px;
+    font-family: "Vibes", cursive;
+    font-size: 1.5rem;
+    letter-spacing: 3px;
+    border: 1px black solid;
+    outline: 1px aqua solid;
+
+}
+#demo, #demo2, #demo3 {
+    width: 20%;
+    height: 60px;
+    font-family: "Vibes", cursive;
+    font-size: 1.5rem;
+    letter-spacing: 3px;
+    border: 1px black solid;
+    outline: 1px aqua solid;
+    background-color: white;
+    color: black;
+    text-align: center;
+}
+footer {
+    text-align: center;
+    font-size: 1.5rem;
+}
